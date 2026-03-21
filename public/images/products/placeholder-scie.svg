@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f3f4f6"/>
+  <!-- Semelle de la scie sauteuse -->
+  <rect x="140" y="245" width="120" height="14" rx="3" fill="#9ca3af"/>
+  <!-- Corps principal -->
+  <rect x="155" y="155" width="90" height="95" rx="12" fill="#6b7280"/>
+  <!-- Poignée supérieure courbée -->
+  <path d="M 175 155 Q 200 120 225 155" fill="none" stroke="#4b5563" stroke-width="22" stroke-linecap="round"/>
+  <!-- Lame de scie -->
+  <rect x="193" y="259" width="10" height="65" rx="2" fill="#374151"/>
+  <!-- Dents de la lame -->
+  <path d="M 193 265 l -5 5 l 5 5 l -5 5 l 5 5 l -5 5 l 5 5 l -5 5" fill="none" stroke="#374151" stroke-width="2"/>
+  <!-- Bouton -->
+  <rect x="175" y="178" width="50" height="16" rx="5" fill="#374151"/>
+  <!-- Texte -->
+  <text x="200" y="345" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#6b7280" text-anchor="middle">Scie</text>
+</svg>

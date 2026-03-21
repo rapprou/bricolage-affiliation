@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f3f4f6"/>
+  <!-- Plateau de la ponceuse excentrique (ellipse) -->
+  <ellipse cx="200" cy="250" rx="70" ry="18" fill="#9ca3af"/>
+  <!-- Corps principal arrondi -->
+  <ellipse cx="200" cy="195" rx="58" ry="58" fill="#6b7280"/>
+  <!-- Dôme supérieur / prise en main -->
+  <ellipse cx="200" cy="150" rx="32" ry="28" fill="#4b5563"/>
+  <!-- Bouton on/off -->
+  <rect x="184" y="138" width="32" height="14" rx="5" fill="#374151"/>
+  <!-- Détails disque abrasif -->
+  <ellipse cx="200" cy="250" rx="62" ry="14" fill="none" stroke="#d1d5db" stroke-width="3" stroke-dasharray="8,5"/>
+  <!-- Trous d'aspiration -->
+  <circle cx="190" cy="250" r="3" fill="#4b5563"/>
+  <circle cx="210" cy="250" r="3" fill="#4b5563"/>
+  <circle cx="200" cy="243" r="3" fill="#4b5563"/>
+  <circle cx="200" cy="257" r="3" fill="#4b5563"/>
+  <!-- Câble / sortie sac -->
+  <rect x="225" y="185" width="40" height="12" rx="6" fill="#4b5563"/>
+  <!-- Texte -->
+  <text x="200" y="345" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#6b7280" text-anchor="middle">Ponceuse</text>
+</svg>

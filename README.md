@@ -106,7 +106,7 @@ src/
 
 ## Démo live
 
-[À compléter après déploiement sur Vercel]
+🌐 Démo live : https://bricolage-affiliation.vercel.app
 
 ---
 

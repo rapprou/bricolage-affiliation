@@ -14,7 +14,7 @@ export const mockProducts: Product[] = [
     reviewCount: 2341,
     type: 'perceuse',
     brand: 'Bosch',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08KGJXQZK?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B08KGJXQZK?tag=bricoshop00-21',
     isPrime: true,
     badge: 'bestseller',
   },
@@ -28,7 +28,7 @@ export const mockProducts: Product[] = [
     reviewCount: 1876,
     type: 'perceuse',
     brand: 'Makita',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07XVJNJRL?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B07XVJNJRL?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -41,7 +41,7 @@ export const mockProducts: Product[] = [
     reviewCount: 987,
     type: 'perceuse',
     brand: 'DeWalt',
-    affiliateUrl: 'https://www.amazon.fr/dp/B09LMZQP7R?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B09LMZQP7R?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -54,7 +54,7 @@ export const mockProducts: Product[] = [
     reviewCount: 3456,
     type: 'perceuse',
     brand: 'Black&Decker',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07SNCN2HX?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B07SNCN2HX?tag=bricoshop00-21',
     isPrime: true,
     badge: 'rapport-qualite-prix',
   },
@@ -68,7 +68,7 @@ export const mockProducts: Product[] = [
     reviewCount: 654,
     type: 'perceuse',
     brand: 'Ryobi',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08CF4K19Y?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B08CF4K19Y?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -81,7 +81,7 @@ export const mockProducts: Product[] = [
     reviewCount: 421,
     type: 'perceuse',
     brand: 'Einhell',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07WCMSJKH?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B07WCMSJKH?tag=bricoshop00-21',
     isPrime: false,
   },
   // VISSEUSES (5)
@@ -95,7 +95,7 @@ export const mockProducts: Product[] = [
     reviewCount: 1234,
     type: 'visseuse',
     brand: 'Bosch',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08MQPKRGZ?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B08MQPKRGZ?tag=bricoshop00-21',
     isPrime: true,
     badge: 'coup-de-coeur',
   },
@@ -109,7 +109,7 @@ export const mockProducts: Product[] = [
     reviewCount: 892,
     type: 'visseuse',
     brand: 'Makita',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08PTSLGMK?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B08PTSLGMK?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -122,7 +122,7 @@ export const mockProducts: Product[] = [
     reviewCount: 1567,
     type: 'visseuse',
     brand: 'DeWalt',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07QF5GCMX?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B07QF5GCMX?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -135,7 +135,7 @@ export const mockProducts: Product[] = [
     reviewCount: 328,
     type: 'visseuse',
     brand: 'Ryobi',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07NTGXBWH?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B07NTGXBWH?tag=bricoshop00-21',
     isPrime: false,
   },
   {
@@ -148,7 +148,7 @@ export const mockProducts: Product[] = [
     reviewCount: 276,
     type: 'visseuse',
     brand: 'Metabo',
-    affiliateUrl: 'https://www.amazon.fr/dp/B09XMFKTVZ?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B09XMFKTVZ?tag=bricoshop00-21',
     isPrime: true,
   },
   // MEULEUSES (4)
@@ -162,7 +162,7 @@ export const mockProducts: Product[] = [
     reviewCount: 1102,
     type: 'meuleuse',
     brand: 'Bosch',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07D3W3LBT?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B07D3W3LBT?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -175,7 +175,7 @@ export const mockProducts: Product[] = [
     reviewCount: 743,
     type: 'meuleuse',
     brand: 'Makita',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08X7YBKQP?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B08X7YBKQP?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -188,7 +188,7 @@ export const mockProducts: Product[] = [
     reviewCount: 489,
     type: 'meuleuse',
     brand: 'DeWalt',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07FPLMJNR?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B07FPLMJNR?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -201,7 +201,7 @@ export const mockProducts: Product[] = [
     reviewCount: 198,
     type: 'meuleuse',
     brand: 'Metabo',
-    affiliateUrl: 'https://www.amazon.fr/dp/B09KRTMWXY?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B09KRTMWXY?tag=bricoshop00-21',
     isPrime: false,
     badge: 'rapport-qualite-prix',
   },
@@ -216,7 +216,7 @@ export const mockProducts: Product[] = [
     reviewCount: 612,
     type: 'scie',
     brand: 'Bosch',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08NMPVGJK?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B08NMPVGJK?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -229,7 +229,7 @@ export const mockProducts: Product[] = [
     reviewCount: 334,
     type: 'scie',
     brand: 'Makita',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08QRPCXLM?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B08QRPCXLM?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -242,7 +242,7 @@ export const mockProducts: Product[] = [
     reviewCount: 287,
     type: 'scie',
     brand: 'Ryobi',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07YBCL7XS?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B07YBCL7XS?tag=bricoshop00-21',
     isPrime: false,
   },
   // PONCEUSES (2)
@@ -256,7 +256,7 @@ export const mockProducts: Product[] = [
     reviewCount: 523,
     type: 'ponceuse',
     brand: 'Bosch',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08VMMJLKP?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B08VMMJLKP?tag=bricoshop00-21',
     isPrime: true,
   },
   {
@@ -269,7 +269,7 @@ export const mockProducts: Product[] = [
     reviewCount: 412,
     type: 'ponceuse',
     brand: 'Makita',
-    affiliateUrl: 'https://www.amazon.fr/dp/B09LNWQZTR?tag=bricomaison-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B09LNWQZTR?tag=bricoshop00-21',
     isPrime: true,
   },
 ];

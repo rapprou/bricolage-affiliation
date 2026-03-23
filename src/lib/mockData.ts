@@ -5,7 +5,7 @@ export const AFFILIATE_TAG = 'bricomaison-21';
 export const mockProducts: Product[] = [
   // PERCEUSES (6)
   {
-    asin: 'B08LQGGPJB',
+    asin: 'B0BC963C58',
     title: 'Bosch Professional GSB 18V-55 — Perceuse-Visseuse à Percussion sans fil 18V, 2 batteries 2.0Ah',
     imageUrl: '/images/products/placeholder-perceuse.svg',
     price: 149.99,
@@ -14,12 +14,12 @@ export const mockProducts: Product[] = [
     reviewCount: 2341,
     type: 'perceuse',
     brand: 'Bosch',
-    affiliateUrl: 'https://www.amazon.fr/dp/B08LQGGPJB?tag=bricoshop00-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B0BC963C58?tag=bricoshop00-21',
     isPrime: true,
     badge: 'bestseller',
   },
   {
-    asin: 'B01N6S5M3I',
+    asin: 'B01BPYMNHW',
     title: 'Makita DHP484RTJ — Perceuse à Percussion 18V Li-Ion 5.0Ah, Couple 54Nm, 13mm',
     imageUrl: '/images/products/placeholder-perceuse.svg',
     price: 199.00,
@@ -28,11 +28,11 @@ export const mockProducts: Product[] = [
     reviewCount: 1876,
     type: 'perceuse',
     brand: 'Makita',
-    affiliateUrl: 'https://www.amazon.fr/dp/B01N6S5M3I?tag=bricoshop00-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B01BPYMNHW?tag=bricoshop00-21',
     isPrime: true,
   },
   {
-    asin: 'B01N4I9T76',
+    asin: 'B071W9DH4S',
     title: 'DeWalt DCD778S2T-QW — Perceuse-Visseuse Compacte 18V XR, 2 batteries 1.5Ah, boîtier TSTAK',
     imageUrl: '/images/products/placeholder-perceuse.svg',
     price: 179.99,
@@ -41,7 +41,7 @@ export const mockProducts: Product[] = [
     reviewCount: 987,
     type: 'perceuse',
     brand: 'DeWalt',
-    affiliateUrl: 'https://www.amazon.fr/dp/B01N4I9T76?tag=bricoshop00-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B071W9DH4S?tag=bricoshop00-21',
     isPrime: true,
   },
   {

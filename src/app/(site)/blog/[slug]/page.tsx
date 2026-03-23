@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { MDXRemote } from 'next-mdx-remote/rsc';
+import remarkGfm from 'remark-gfm';
 import { getArticleBySlug, getAllArticles } from '@/lib/mdx';
 
 interface Props {
@@ -47,7 +48,7 @@ export default async function ArticlePage({ params }: Props) {
         <h1 className="text-3xl font-bold text-gray-900 mb-8">{meta.title}</h1>
 
         <div className="prose prose-gray max-w-none">
-          <MDXRemote source={content} />
+          <MDXRemote source={content} options={{ mdxOptions: { remarkPlugins: [remarkGfm] } }} />
         </div>
 
         <div className="mt-12 p-4 bg-blue-50 border border-blue-200 rounded-lg">

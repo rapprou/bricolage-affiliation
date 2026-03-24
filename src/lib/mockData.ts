@@ -45,7 +45,7 @@ export const mockProducts: Product[] = [
     isPrime: true,
   },
   {
-    asin: 'B00X4FHXQI',
+    asin: 'B0792S2J1P',
     title: 'Black+Decker BDCDD12KB — Perceuse sans fil 12V MAX, batterie 1.5Ah, coffret',
     imageUrl: '/images/products/placeholder-perceuse.svg',
     price: 49.99,
@@ -54,12 +54,12 @@ export const mockProducts: Product[] = [
     reviewCount: 3456,
     type: 'perceuse',
     brand: 'Black&Decker',
-    affiliateUrl: 'https://www.amazon.fr/dp/B00X4FHXQI?tag=bricoshop00-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B0792S2J1P?tag=bricoshop00-21',
     isPrime: true,
     badge: 'rapport-qualite-prix',
   },
   {
-    asin: 'B07G4L2R8P',
+    asin: 'B0D9H8G98P',
     title: 'Ryobi R18PD7-215S — Perceuse à Percussion 18V ONE+, 2 batteries 1.5Ah + 5.0Ah',
     imageUrl: '/images/products/placeholder-perceuse.svg',
     price: 129.00,
@@ -68,7 +68,7 @@ export const mockProducts: Product[] = [
     reviewCount: 654,
     type: 'perceuse',
     brand: 'Ryobi',
-    affiliateUrl: 'https://www.amazon.fr/dp/B07G4L2R8P?tag=bricoshop00-21',
+    affiliateUrl: 'https://www.amazon.fr/dp/B0D9H8G98P?tag=bricoshop00-21',
     isPrime: true,
   },
   {

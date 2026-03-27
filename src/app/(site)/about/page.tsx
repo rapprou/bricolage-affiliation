@@ -1,3 +1,8 @@
+export const metadata = {
+  title: 'À propos de BricoSearch | Moteur de recherche outils bricolage',
+  description: 'BricoSearch est un comparateur d\'outils de bricolage participant au Programme Partenaires Amazon EU.',
+}
+
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">

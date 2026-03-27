@@ -1,3 +1,8 @@
+export const metadata = {
+  title: 'Mentions légales | BricoSearch',
+  description: 'Mentions légales et disclosure affiliation Amazon Associates du site BricoSearch.',
+}
+
 export default function MentionsLegalesPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">

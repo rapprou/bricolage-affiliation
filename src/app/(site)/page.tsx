@@ -1,4 +1,9 @@
 import Link from 'next/link';
+
+export const metadata = {
+  title: 'BricoSearch — Moteur de recherche outils bricolage | Amazon.fr',
+  description: 'Trouvez l\'outil parfait pour vos projets bricolage. Comparez perceuses, visseuses, meuleuses au meilleur prix sur Amazon.fr.',
+}
 import { ShieldCheck, Star, Zap } from 'lucide-react';
 
 const features = [
